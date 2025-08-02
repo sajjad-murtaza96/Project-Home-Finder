@@ -1,4 +1,15 @@
-.header {
+main {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+header {
   width: 200px;
-  height: 80px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #f8f9fa;
+}
+
+.content {
+  padding: 20px;
 }
